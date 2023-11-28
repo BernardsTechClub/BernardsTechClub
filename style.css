@@ -1,5 +1,5 @@
-p{ font-size: 30px}
-div{
-    height: 200px;
-    width: 50%;
+p{ font-size: 3000px}
+div.static{
+    position: static;
+    border: 3px solid #73AD21;
 }
